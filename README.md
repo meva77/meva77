@@ -31,14 +31,6 @@ I transform complex data into actionable insights and build solutions that drive
 
 ## 🌟 Featured Projects
 
-### [Project Name 1](https://github.com/meva77/project-1)
-Advanced customer segmentation using clustering algorithms that increased marketing ROI by 27%
-
-### [Project Name 2](https://github.com/meva77/project-2)
-Predictive maintenance system that reduced equipment downtime by 35% through early failure detection
-
-### [Project Name 3](https://github.com/meva77/project-3)
-Automated data pipeline that processes 10TB+ daily, reducing manual reporting time by 90%
 
 ## 📈 GitHub Stats
 
