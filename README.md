@@ -29,15 +29,6 @@ I transform complex data into actionable insights and build solutions that drive
 - **Business Intelligence**: Create interactive dashboards and reports that drive decision-making
 - **Statistical Analysis**: Apply statistical methods to solve complex business problems
 
-## 🌟 Featured Projects
-
-
-## 📈 GitHub Stats
-
-<a href="https://github.com/meva77">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meva77&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meva77&layout=compact&langs_count=7&theme=dark"/>
-</a>
 
 ## 🔭 I'm currently working on...
 
@@ -50,13 +41,6 @@ I transform complex data into actionable insights and build solutions that drive
 - MLOps best practices and deployment strategies
 - Graph Neural Networks
 - Large Language Models fine-tuning
-
-## 💬 Let's Connect
-
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out if you want to discuss data science, share project ideas, or just connect!
-
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-- 🔗 Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
 ---
 
